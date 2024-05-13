@@ -1,0 +1,19 @@
+.success-alert {
+  background-color: hsl(110, 100%, 59%);
+  border: 1px solid #c3e6cb;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+
+
+.warning-alert {
+    background-color: yellow;
+    border: 1px solid #ffc107;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+  }
+
+  
+  
